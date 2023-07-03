@@ -1,4 +1,3 @@
-[submodule "packages/google-translate-api"]
-	path = packages/google-translate-api
-	url = https://github.com/dimaslanjaka/google-translate-api
-	branch = master
+[submodule "packages/puppeteer-google-translate"]
+	path = packages/puppeteer-google-translate
+	url = https://github.com/dimaslanjaka/puppeteer-google-translate.git
